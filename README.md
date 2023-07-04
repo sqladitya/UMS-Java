@@ -62,10 +62,10 @@ NOTE (fee table): For the fee table, I have inserted the fee Details in the resp
 
 ## NOTE (JDBC Connection): 
 
-#### ("jdbc:mysql://localhost:3306/universitymanagementsystem", "root","7739")
+#### ("jdbc:mysql://localhost:3306/universitymanagementsystem", "USERNAME","PASSWORD")
 1.	I have used MYSQL Workbench Application for the Database. In MYSQL Workbench, by default the port number is 3306, So I have used their port no. 3306 for JDBC Connection. And I have used LocalHost.
-2.	My Database <b>Username = ‘root’. </b>
-3.	My Database <b>Password = ‘7739’.</b>
+2.	Database <b>Username = ‘USERNAME’. </b>
+3.	Database <b>Password = ‘PASSWORD’.</b>
 4.	If anything is different in your case, then you have to change all of different data’s in <b>conn.java</b> class respectively.
 
 <b>Recommendation:</b> <br>1. Install MYSQL Workbench by using the MYSQL installer- Community, so that server will install and other important things.<br>
@@ -81,7 +81,7 @@ In Home page <br>
 Menubars are there<br>
 ![image](https://github.com/sqladitya/UMS-Java/assets/84535788/44d251ad-c40c-4131-a502-88523e0693b0)<br>
 All Menubars are<br>
-![image](https://github.com/sqladitya/UMS-Java/assets/84535788/dde95817-8626-4645-aada-97fb6dea5d4d) ![image](https://github.com/sqladitya/UMS-Java/assets/84535788/3f0030b4-f6be-4974-a0ce-05bfb10b83ae)<br>
+![image](https://github.com/sqladitya/UMS-Java/assets/84535788/dde95817-8626-4645-aada-97fb6dea5d4d) ![image](https://github.com/sqladitya/UMS-Java/assets/84535788/3f0030b4-f6be-4974-a0ce-05bfb10b83ae)<br><br>
 The <b>EXIT</b> button will will close the application
 
 
