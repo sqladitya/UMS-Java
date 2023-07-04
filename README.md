@@ -1,15 +1,15 @@
 # UMS-Java
 ## JAVA Project Note
 
-1.	Java project name is <b>University Management System</b>
+1.	Java project name is <b>[University Management System](https://github.com/sqladitya/UMS-Java/tree/main/University%20Management%20System)</b>
 2.	All Java source files in package name = <b>’university.management.system’</b>.
-3.	Start Page of the Application – <b>main.java.</b>
-4.	All the Images are in icons folder.
-5.	Import all jar files in Libraries which is <br><b>	1. mysql-connector-java-8.0.28.jar</b> – Official JDBC Driver for Mysql.<br><b>2.	jcalendar-tz-1.3.3-4.jar</b> – Java Date chooser bean for graphically picking a date.<br>	3. <b>rx2xml.jar</b> - display the data in a table format.
+3.	Start Page of the Application – [main.java](https://github.com/sqladitya/UMS-Java/blob/main/University%20Management%20System/src/university/management/system/Main.java)
+4.	All the Images are in [Icons](https://github.com/sqladitya/UMS-Java/tree/main/University%20Management%20System/src/icons) folder.
+5.	Import all [Jar](https://github.com/sqladitya/UMS-Java/tree/main/University%20Management%20System/Jar) files in Libraries which is <br><b>	1. mysql-connector-java-8.0.28.jar</b> – Official JDBC Driver for Mysql.<br><b>2.	jcalendar-tz-1.3.3-4.jar</b> – Java Date chooser bean for graphically picking a date.<br>	3. <b>rx2xml.jar</b> - display the data in a table format.
 ## 
 ## MYSQL Note
 
-### If you are developing this same, then first create these all of the tables with the same table, column name which is visible in the below tables.
+### If you are developing this same, then first create these all of the tables with the same table, column name which is visible in the below tables. Run all of the queries in Mysql workbench [SQL Queries](https://github.com/sqladitya/UMS-Java/blob/main/University%20Management%20System/Queries.sql)
 
 1.	use universitymanagementsystem;
 
@@ -66,7 +66,7 @@ NOTE (fee table): For the fee table, I have inserted the fee Details in the resp
 1.	I have used MYSQL Workbench Application for the Database. In MYSQL Workbench, by default the port number is 3306, So I have used their port no. 3306 for JDBC Connection. And I have used LocalHost.
 2.	Database <b>Username = ‘USERNAME’. </b>
 3.	Database <b>Password = ‘PASSWORD’.</b>
-4.	If anything is different in your case, then you have to change all of different data’s in <b>conn.java</b> class respectively.
+4.	If anything is different in your case, then you have to change all of different data’s in <b>[conn.java](https://github.com/sqladitya/UMS-Java/blob/main/University%20Management%20System/src/university/management/system/conn.java)</b> class respectively.
 
 <b>Recommendation:</b> <br>1. Install MYSQL Workbench by using the MYSQL installer- Community, so that server will install and other important things.<br>
 <b>MYSQL installer-</b> Community download link - [Click Here](https://dev.mysql.com/get/archives/mysql-installer/mysql-installer-web-community-8.0.28.0.msi)<br> 2. Install Apache Netbeans for the application development.<br>
