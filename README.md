@@ -1,4 +1,5 @@
 # UMS-Java
+A comprehensive Java-based software solution designed to streamline and automate various administrative tasks, academic processes, and student management within a university.
 ## JAVA Project Note
 
 1.	Java project name is <b>[University Management System](https://github.com/sqladitya/UMS-Java/tree/main/University%20Management%20System)</b>
